@@ -1,5 +1,5 @@
 {
-  "name": "islandora/islandora_defaults",
+  "name": "islandora-rdm/islandora_rdm_defaults",
   "description": "Islandora Defaults",
   "type": "drupal-module",
   "minimum-stability": "dev",

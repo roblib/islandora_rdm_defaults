@@ -8,7 +8,7 @@
 /**
  * Implements hook_rdf_namespaces().
  */
-function islandora_defaults_rdf_namespaces() {
+function islandora_rdm_defaults_rdf_namespaces() {
   return [
     'relators' => 'http://id.loc.gov/vocabulary/relators/',
   ];

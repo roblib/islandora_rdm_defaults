@@ -6,7 +6,7 @@
   "prefer-stable": true,
   "keywords": ["Drupal", "Islandora"],
   "license": "GPL-2.0+",
-  "homepage": "https://github.com/Islandora/islandora_defaults",
+  "homepage": "https://github.com/roblib/islandora_rdm_defaults",
   "support": {
     "issues": "https://github.com/Islandora/documentation/issues"
   },

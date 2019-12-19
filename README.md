@@ -1,6 +1,6 @@
 # ![Islandora Defaults mascot](https://user-images.githubusercontent.com/2371345/67035035-31828c80-f0ef-11e9-8c46-db902caaaa81.png) 
 # Islandora Defaults    
-[![Build Status](https://travis-ci.com//Islandora/islandora_defaults.png?branch=8.x-1.x)](https://travis-ci.com//Islandora/islandora_defaults)
+[![Build Status](https://travis-ci.com//Islandora/islandora_rdm_defaults.png?branch=8.x-1.x)](https://travis-ci.com//Islandora/islandora_rdm_defaults)
 [![Contribution Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./CONTRIBUTING.md)
 [![LICENSE](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat-square)](./LICENSE)
 
@@ -9,10 +9,10 @@
 Islandora Defaults is a Drupal feature intended to showcase all of the functionality of a full Islandora install. It provides custom content types, contexts, viewers, and other 'starter' configuration the reflects a baseline Islandora site. It is expected that you will take these defaults and customize them further to fit your use case. 
 
 ## Installation
-Islandora_defaults is a Drupal Feature. See [Drupal documentation on Features](https://www.drupal.org/docs/8/modules/features) for more information.
+islandora_rdm_defaults is a Drupal Feature. See [Drupal documentation on Features](https://www.drupal.org/docs/8/modules/features) for more information.
 
 ## Configuration
-Islandora_defaults is itself a set of configurations for Drupal. It can be further customized by customizing content types, actions, and other aspects of Drupal that are configured by islandora_defaults.
+islandora_rdm_defaults is itself a set of configurations for Drupal. It can be further customized by customizing content types, actions, and other aspects of Drupal that are configured by islandora_rdm_defaults.
 
 ## Maintainers
 

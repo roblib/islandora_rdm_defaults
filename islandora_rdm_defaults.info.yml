@@ -38,4 +38,4 @@ dependencies:
   - text
   - user
   - views
-package: Islandora
+package: 'Islandora RDM'

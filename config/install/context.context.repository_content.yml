@@ -17,7 +17,8 @@ conditions:
   node_type:
     id: node_type
     bundles:
-      islandora_object: islandora_object
+      islandora_oral_history: islandora_oral_history
+      islandora_rdm_dataset: islandora_rdm_dataset
     negate: 0
     context_mapping:
       node: '@node.node_route_context:node'

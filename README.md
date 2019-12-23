@@ -1,4 +1,4 @@
-# ![Islandora RDM Defaults mascot](https://user-images.githubusercontent.com/1943338/71380992-0d886f00-25a8-11ea-94b5-f1d6ca5ed4b8.png) 
+# ![Islandora RDM Defaults mascot](https://user-images.githubusercontent.com/1943338/71381189-e1212280-25a8-11ea-99ff-46a8f7ac158f.png) 
 # Islandora RDM Defaults    
 [![Build Status](https://travis-ci.com//Islandora/islandora_rdm_defaults.png?branch=8.x-1.x)](https://travis-ci.com//Islandora/islandora_rdm_defaults)
 [![Contribution Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./CONTRIBUTING.md)

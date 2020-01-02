@@ -1,5 +1,5 @@
-name: 'Islandora Defaults'
-description: 'Default configuration for Islandora 8.'
+name: 'Islandora RDM Defaults'
+description: 'Defaults for Islandora 8 for Research Data Management.'
 type: module
 core: 8.x
 dependencies:

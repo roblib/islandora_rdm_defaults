@@ -8,6 +8,7 @@ dependencies:
   - context
   - controlled_access_terms
   - controlled_access_terms_defaults
+  - entity_reference_revisions
   - eva
   - field
   - field_group
@@ -28,6 +29,7 @@ dependencies:
   - migrate_plus
   - node
   - openseadragon
+  - paragraphs
   - path
   - pdf
   - rdf
@@ -38,4 +40,5 @@ dependencies:
   - text
   - user
   - views
-package: 'Islandora RDM'
+package: Islandora
+core_incompatible: false

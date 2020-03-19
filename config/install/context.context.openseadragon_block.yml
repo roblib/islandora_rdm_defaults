@@ -17,6 +17,7 @@ conditions:
     uri: 'https://schema.org/Book'
     context_mapping:
       node: '@node.node_route_context:node'
+    logic: and
 reactions:
   blocks:
     blocks:

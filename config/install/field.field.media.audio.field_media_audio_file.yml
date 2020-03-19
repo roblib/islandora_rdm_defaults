@@ -4,9 +4,6 @@ dependencies:
   config:
     - field.storage.media.field_media_audio_file
     - media.type.audio
-  enforced:
-    module:
-      - islandora_core_feature
   module:
     - file
 id: media.audio.field_media_audio_file
@@ -16,7 +13,7 @@ bundle: audio
 label: 'Audio file'
 description: ''
 required: true
-translatable: false
+translatable: true
 default_value: {  }
 default_value_callback: ''
 settings:

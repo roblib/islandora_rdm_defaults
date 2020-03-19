@@ -4,11 +4,8 @@ dependencies:
   module:
     - islandora
     - islandora_bagger_integration
-    - system
   theme:
     - carapace
-_core:
-  default_config_hash: HujOOZNGeAvxCkw15AXmhcEue2yYeCW0VSH6hK4RqZc
 id: bagitblock
 theme: carapace
 region: sidebar_second
@@ -25,12 +22,8 @@ visibility:
     id: entity_bundle
     bundles:
       data_management_plan: data_management_plan
+      islandora_object: islandora_object
       islandora_rdm_dataset: islandora_rdm_dataset
     negate: false
     context_mapping:
       node: '@node.node_route_context:node'
-  request_path:
-    id: request_path
-    pages: "/node/add/*\r\n/node/*/edit"
-    negate: true
-    context_mapping: {  }

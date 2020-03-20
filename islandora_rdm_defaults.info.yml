@@ -3,6 +3,7 @@ description: 'Defaults for Islandora 8 for Research Data Management.'
 type: module
 core: 8.x
 dependencies:
+  - block
   - comment
   - content_translation
   - context
@@ -24,6 +25,7 @@ dependencies:
   - islandora_video
   - language
   - link
+  - matomo_reports
   - media
   - menu_ui
   - migrate_plus

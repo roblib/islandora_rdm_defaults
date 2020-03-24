@@ -33,7 +33,7 @@ content:
     settings:
       view_mode: default
       link: ''
-    weight: 107
+    weight: 108
     third_party_settings: {  }
     region: content
   field_media_image:

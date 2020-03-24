@@ -10,7 +10,7 @@ dependencies:
 id: matomopagestatistics
 theme: carapace
 region: sidebar_second
-weight: -5
+weight: -6
 provider: null
 plugin: matomo_page_report
 settings:

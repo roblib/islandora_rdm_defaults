@@ -45,7 +45,7 @@ content:
         duplicate: duplicate
         collapse_edit_all: collapse_edit_all
     type: paragraphs
-    weight: 107
+    weight: 108
     third_party_settings: {  }
   field_media_image:
     settings:

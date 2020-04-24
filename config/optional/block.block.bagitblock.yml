@@ -21,8 +21,8 @@ settings:
   provider: islandora_bagger_integration
   label_display: visible
 visibility:
-  entity_bundle:
-    id: entity_bundle
+  islandora_entity_bundle:
+    id: islandora_entity_bundle
     bundles:
       data_management_plan: data_management_plan
       islandora_rdm_dataset: islandora_rdm_dataset
